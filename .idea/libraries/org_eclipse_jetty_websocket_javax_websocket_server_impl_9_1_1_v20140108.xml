@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty.websocket:javax-websocket-server-impl:9.1.1.v20140108" type="repository">
+    <properties maven-id="org.eclipse.jetty.websocket:javax-websocket-server-impl:9.1.1.v20140108" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/javax-websocket-server-impl/9.1.1.v20140108/javax-websocket-server-impl-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-annotations/9.1.1.v20140108/jetty-annotations-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-plus/9.1.1.v20140108/jetty-plus-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-jndi/9.1.1.v20140108/jetty-jndi-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-webapp/9.1.1.v20140108/jetty-webapp-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.1.1.v20140108/jetty-xml-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/4.1/asm-4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/4.1/asm-tree-4.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/javax-websocket-client-impl/9.1.1.v20140108/javax-websocket-client-impl-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.1.1.v20140108/websocket-client-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.1.1.v20140108/jetty-util-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.1.1.v20140108/jetty-io-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-server/9.1.1.v20140108/websocket-server-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.1.1.v20140108/websocket-common-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-api/9.1.1.v20140108/websocket-api-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-servlet/9.1.1.v20140108/websocket-servlet-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.1.1.v20140108/jetty-servlet-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-security/9.1.1.v20140108/jetty-security-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.1.1.v20140108/jetty-server-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.1.1.v20140108/jetty-http-9.1.1.v20140108.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
